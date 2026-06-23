@@ -6,7 +6,7 @@ version = "0.1.0"
 
 description = "CI/CD implementation and push into github"
 
-requires-python = "3.9.25"
+requires-python = ">=3.10"
 
 dependencies = [
 
